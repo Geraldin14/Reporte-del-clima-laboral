@@ -3,7 +3,7 @@
 
 📊 **Análisis interactivo del clima laboral en una organización mediante indicadores clave por área, género, año y categoría.**
 
-![Clima Laboral Dashboard](./images/clima-laboral-dashboard.png)
+<img width="845" height="476" alt="image" src="https://github.com/user-attachments/assets/c42bd27b-ea5f-40b2-9880-dfdf52ecf503" />
 
 ---
 
