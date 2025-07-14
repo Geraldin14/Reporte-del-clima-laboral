@@ -1,9 +1,8 @@
-
 # 💼 Clima Laboral Dashboard – Evaluación Organizacional 2022–2023
 
 📊 **Análisis interactivo del clima laboral en una organización mediante indicadores clave por área, género, año y categoría.**
 
-<img width="839" height="476" alt="image" src="https://github.com/user-attachments/assets/3e429c32-7a9b-4b32-9696-21dd315dd52c" />
+<img width="839" height="476" alt="image" src="https://github.com/user-attachments/assets/90ef7843-c03d-433d-8e17-3fa90d46beaf" />
 
 
 ---
@@ -16,45 +15,45 @@ Este dashboard fue desarrollado con **Power BI** para evaluar el **clima laboral
 
 ## 🎯 Objetivos
 
-- Evaluar el clima organizacional de forma visual y dinámica.
-- Identificar áreas de mejora y fortalezas dentro de la empresa.
-- Facilitar la toma de decisiones estratégicas en Recursos Humanos.
+* Evaluar el clima organizacional de forma visual y dinámica.
+* Identificar áreas de mejora y fortalezas dentro de la empresa.
+* Facilitar la toma de decisiones estratégicas en Recursos Humanos.
 
 ---
 
-## 🧩 Principales Componentes
+## 🧹 Principales Componentes del Dashboard
 
-| Indicador                  | Descripción                                                                 |
-|----------------------------|-----------------------------------------------------------------------------|
-| **Resultado Global**       | Promedio general del clima laboral (ej. 85.42% en 2022).                    |
-| **Comparativo por Año**    | Comparación de resultados entre 2022 y 2023.                                |
-| **Comparativo por Género** | Visualiza la diferencia de percepción entre hombres y mujeres.             |
-| **Por Categoría**          | Evaluación detallada en 6 dimensiones: beneficios, comunicación, liderazgo...|
-| **Por Área**               | Marketing, Tecnología, Finanzas, Ventas, Operaciones, RRHH, etc.            |
-| **Por Pregunta**           | Resultados individuales para cada ítem de la encuesta.                     |
+| Indicador                  | Descripción                                                                |
+| -------------------------- | -------------------------------------------------------------------------- |
+| **Resultado Global**       | Promedio general del clima laboral (85,68% en total).                      |
+| **Comparativo por Año**    | Resultados de 2022 (85,42%) y 2023 (85,94%).                               |
+| **Comparativo por Género** | Resultados por sexo en 2022 y 2023 (ej. hombres: 82,08%, mujeres: 89,27%). |
+| **Por Categoría**          | 6 categorías evaluadas: beneficios, comunicación, desarrollo, liderazgo... |
+| **Por Área**               | Marketing, TI, Finanzas, RRHH, Operaciones, Ventas, etc.                   |
+| **Por Pregunta**           | Resultados individuales por ítem de la encuesta.                           |
 
 ---
 
 ## 📁 Dataset
 
-El archivo original fue elaborado a partir de los resultados de encuestas internas aplicadas a colaboradores. Cada fila representa una respuesta individual asociada a:
+El archivo de datos contiene respuestas individuales a encuestas de clima laboral, segmentadas por:
 
-- Año de aplicación
-- Área funcional
-- Género del colaborador
-- Categoría de evaluación
-- Pregunta y respuesta (escala porcentual)
+* Año
+* Área funcional
+* Género del colaborador
+* Categoría evaluada
+* Preguntas y valoración porcentual
 
 ---
 
 ## 🛠️ Herramientas Utilizadas
 
-- **Power BI Desktop** – Análisis y visualización interactiva
-- **Excel / CSV** – Almacenamiento del dataset estructurado
+* **Power BI Desktop** – Visualización de datos interactiva
+* **Excel / CSV** – Almacenamiento de datos
 
 ---
 
-## 👩‍💻 Autor
+## 👩‍💼 Autor
 
-**Geraldin Carriazo**  
-🔗 [LinkedIn](https://www.linkedin.com/in/geraldin-carriazo/)  
+**Geraldin Carriazo**
+🔗 [LinkedIn](https://www.linkedin.com/in/geraldin-carriazo/)
