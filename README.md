@@ -3,7 +3,8 @@
 
 📊 **Análisis interactivo del clima laboral en una organización mediante indicadores clave por área, género, año y categoría.**
 
-<img width="845" height="476" alt="image" src="https://github.com/user-attachments/assets/c42bd27b-ea5f-40b2-9880-dfdf52ecf503" />
+<img width="839" height="476" alt="image" src="https://github.com/user-attachments/assets/3e429c32-7a9b-4b32-9696-21dd315dd52c" />
+
 
 ---
 
